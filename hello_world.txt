@@ -1,0 +1,1 @@
+"Hello World" is usually the first thing students learn to print when start a programming class!
